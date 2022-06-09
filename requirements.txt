@@ -1,0 +1,10 @@
+pandas 
+numpy
+streaemlit 
+sklearn
+seaborn 
+matplotlib
+pickle
+warnings
+xgboost
+catboost
