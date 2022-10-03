@@ -1,6 +1,6 @@
 pandas 
 numpy
-streaemlit
+streaemlit==1.13.0
 sklearn
 seaborn 
 matplotlib
