@@ -5,6 +5,5 @@ sklearn
 seaborn 
 matplotlib
 pickle5
-warnings
 xgboost
 catboost
