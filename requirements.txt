@@ -1,9 +1,10 @@
 pandas 
 numpy
-streamlit==1.13.0
+streamlit
 scikit-learn
 seaborn 
 matplotlib
 pickle5
 xgboost
 catboost
+pip install pandas --upgrade
