@@ -6,4 +6,4 @@ matplotlib
 pickle5
 xgboost
 catboost
-pandas==2.1.0
+pandas
